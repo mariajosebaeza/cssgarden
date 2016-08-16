@@ -1,0 +1,41 @@
+
+body {
+	background:url(../img/fondo-vivo-css.png); 
+	text-align: center; 
+
+}
+
+h1 { 
+	color:#6F90EB; 
+	font-size: 35px;
+	
+}
+h3 {
+	color:#76B4BD; 
+	font-size:20px;
+	
+}
+h2 {
+	color:#76B4BD;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 40;
+	
+}
+p {
+	color:#8F9697;
+	text-align: center;
+	text-decoration: underline;
+}
+
+a:link {color:#FF0000} 
+a:visited {color:#00FF00}
+a:hover {color:#FFFF00 } 
+a:active {color:#FF8000 } 
+
+.page-wrapper{
+	margin-right: 2em;
+	margin-left: 2em;
+	background-color: rgba(255, 255, 255, .8);
+}
+
